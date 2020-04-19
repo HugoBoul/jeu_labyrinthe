@@ -19,4 +19,6 @@ Le fichier labyrinthe.py comprend la classe du labyrinthe
 
 Le dossier carte comprend les labyrinthes que l'on peut utiliser
 
-Le fichier test.py permet de tester que le programme fonctionne bien 
+Le fichier test.py permet de tester que le programme fonctionne bien
+
+Pour toutes questions/remarques, merci de contacter Hugo Boulanger
