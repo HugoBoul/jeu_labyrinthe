@@ -3,8 +3,8 @@ Mécanisme :
 - ensuite choix d'un labyrinthe
 - ensuite lancement du jeu en ouvrant le fichier client.py (autant de fois que l'on veut de joueur)
 
-- rappel de l'objectif : chaque joueur est un robot "X". Les robots adverses sont représentés par "x". L'objectif est de gagner la sortie "U" avec le robot.
-Les symboles du jeu : "O" est un mur (il bloque le robot), "." est une porte (le robot peut passer par là).
+- rappel de l'objectif : chaque joueur est un robot "X". Les robots adverses sont représentés par "x". L'objectif est de gagner la sortie "U" avec le robot
+Les symboles du jeu : "O" est un mur (il bloque le robot), "." est une porte (le robot peut passer par là)
 
 - ensuite commandes de jeu à passer :
 -- "C" pour commencer la partie (il faut au moins 2 joueurs connectés)
@@ -17,6 +17,6 @@ Le fichier fonctions.py comprend les fonctions utilisées par le programme
 
 Le fichier labyrinthe.py comprend la classe du labyrinthe
 
-Le dossier carte comprend les labyrinthes que l'on peut utiliser. 
+Le dossier carte comprend les labyrinthes que l'on peut utiliser
 
-Le fichier test.py permet de tester que le programme fonctionne bien.  
+Le fichier test.py permet de tester que le programme fonctionne bien 
